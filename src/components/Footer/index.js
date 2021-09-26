@@ -19,31 +19,8 @@ const Footer = () => {
                             <FooterLinkTitle>                            
                             About Me
                             </FooterLinkTitle>
-                                <FooterLink to="/signin">Contact Me</FooterLink>
-                                <FooterLink to="/signin">Skills</FooterLink>
-                        </FooterLinksItem>
-                        <FooterLinksItem>
-                            <FooterLinkTitle>                            
-                            About Me
-                            </FooterLinkTitle>
-                                <FooterLink to="/signin">Contact Me</FooterLink>
-                                <FooterLink to="/signin">Skills</FooterLink>
-                        </FooterLinksItem>
-                    </FooterLinksWrapper>
-                    <FooterLinksWrapper>
-                        <FooterLinksItem>
-                            <FooterLinkTitle>                            
-                            About Me
-                            </FooterLinkTitle>
-                                <FooterLink to="/signin">Contact Me</FooterLink>
-                                <FooterLink to="/signin">Skills</FooterLink>
-                        </FooterLinksItem>
-                        <FooterLinksItem>
-                            <FooterLinkTitle>                            
-                            About Me
-                            </FooterLinkTitle>
-                                <FooterLink to="/signin">Contact Me</FooterLink>
-                                <FooterLink to="/signin">Skills</FooterLink>
+                                <FooterLink to="/contactme">Contact Me</FooterLink>
+                                <FooterLink to="about">Skills</FooterLink>
                         </FooterLinksItem>
                     </FooterLinksWrapper>
                 </FooterLinksContainer>
