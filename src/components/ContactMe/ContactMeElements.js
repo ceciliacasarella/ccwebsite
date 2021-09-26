@@ -48,6 +48,7 @@ export const IconForm = styled(Link)`
         color: #000;
         font-weight: 700;
         font-size: 32px;    
+        top: 20px;
 }
 `
 
